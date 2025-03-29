@@ -2,6 +2,6 @@
 # Group members
  1. Abeba Nigussie Turi
  2. Elshaday Yoseph
- 3. Ka Gao
+ 3. Ke Gao
  4. Yuhan Fan
  5. Zuhui Rein 
