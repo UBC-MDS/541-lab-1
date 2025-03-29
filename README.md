@@ -1,6 +1,7 @@
-# 541-lab-1
- 1. Abeba
- 2. Yuhan
- 3. Elshaday
- 4. Kevin
- 5. Zoe
+# DSCI 541 lab1
+# Group members
+ 1. Abeba Nigussie Turi
+ 2. Elshaday Yoseph
+ 3. Ka Gao
+ 4. Yuhan Fan
+ 5. Zuhui Rein 
